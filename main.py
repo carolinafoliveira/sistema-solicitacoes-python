@@ -482,7 +482,7 @@ while True:
                 canceladas += 1
 
 
-        # Exibe o resultado das contagens.
+        # Exibe o relatório.
         print("Total de solicitações........:", total)
         print()
 
